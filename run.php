@@ -5,8 +5,8 @@ require_once("dependencies/SVGImage.php");
 
 function handleCard(array $input, $targetFile) {
 	
-	$svgImage = new \view\SVGImage(200, 300);
-	$svgImage->drawFrame(0, 0, 199, 299); //draw a diagonal line
+	$svgImage = new \view\SVGImage("60mm", "40mm");
+	$svgImage->drawFrame(0, 0, "59mm", 299); //draw a diagonal line
 	$svgImage->drawText(10, 20, $input[0]); //Kortets scen
 	$svgImage->drawText(10, 40, $input[1]); //Kortets Titel
 	$svgImage->drawText(10, 60, $input[2]); //Kortets Citat
