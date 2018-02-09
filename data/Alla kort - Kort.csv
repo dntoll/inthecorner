@@ -1,0 +1,105 @@
+Scen,Titel,Citat,Beskrivning,
+Hindret,Ett improviserat vapen används,...hon slår dig med din egen arm!,EventNågon,Spela det här kortet för att introducera en händelse som en karaktär eller en SLP gör.
+Hindret,En skicklig räddning (parad),Riddaren parerar nonchalant era pilar.,EventNågon,Spela det här kortet för att introducera en händelse som en karaktär eller en SLP gör.
+Hindret,Någon snubblar,,EventNågon,Spela det här kortet för att introducera en händelse som en karaktär eller en SLP gör.
+Hindret,En magisk besvärjelse används för att undkomma,poff! Magikern försvinner i ett rökmoln!,EventNågon,Spela det här kortet för att introducera en händelse som en karaktär eller en SLP gör.
+Hindret,Någon rider på en stridshäst,Gallopperande ner för berget kommer...,EventNågon,Spela det här kortet för att introducera en händelse som en karaktär eller en SLP gör.
+Hindret,Någon åker vagn,Dvärgen sitter i kuskbocken och alven ligger i vagnen...,EventNågon,Spela det här kortet för att introducera en händelse som en karaktär eller en SLP gör.
+Hindret,Någon springer i förväg,Jag springer i förväg och spanar! ,EventNågon,Spela det här kortet för att introducera en händelse som en karaktär eller en SLP gör.
+Hindret,Ett bakhåll,Ett träd ramlar över vägen och tre troll rusar på oss!,SLP,"Spela det här kortet för att introducera en spelarkaraktär, en ny SLP eller en motståndare."
+Hindret,Ett träd har rasat ner på vägen,Över vägen ligger en... en... pinne,Upptäckt,Spela det här kortet för att introducera något nytt på platsen där ni är. Beskriv vem som gör upptäckten!
+Hindret,En bro är raserad,Bron rasar när alven trippar ut på den!,Upptäckt,Spela det här kortet för att introducera något nytt på platsen där ni är. Beskriv vem som gör upptäckten!
+Hindret,Det blir natt,"Natten faller och vi måste ha nattvakt, vem är först?",Stämning,Spela kortet för att sätta en ny atmosfär på platsen ni är.
+Hindret,Det snöar,från himlen dalar stora flingor ner...,Stämning,Spela kortet för att sätta en ny atmosfär på platsen ni är.
+Hindret,Det regnar kraftigt,småregnar fast blåser in från sidan,Stämning,Spela kortet för att sätta en ny atmosfär på platsen ni är.
+Hindret,Vagnen fastnar i leran,hjulet sitter fast!,Event,Spela det här kortet för att introducera en händelse.
+Hindret,Någon äter något förgiftat,mm blåbär! utbrister Hrahl,EventNågon,Spela det här kortet för att introducera en händelse som en karaktär eller en SLP gör.
+Hindret,En fälla löser ut,,Event,Spela det här kortet för att introducera en händelse.
+Hindret,En pil fastnar i skölden,,Event,Spela det här kortet för att introducera en händelse.
+Hindret,Stenar rasar ner över vägen,,Event,Spela det här kortet för att introducera en händelse.
+Hindret,Någon känner på sig att något dåligt kommer att hända,,Upptäckt,Spela det här kortet för att introducera något nytt på platsen där ni är. Beskriv vem som gör upptäckten!
+Hindret,Någon kastar sig upp på hästen,,EventNågon,Spela det här kortet för att introducera en händelse som en karaktär eller en SLP gör.
+Hindret,Någon får en smäll,,EventNågon,Spela det här kortet för att introducera en händelse som en karaktär eller en SLP gör.
+Karaktärer,Någon har en vårta,,Beskrivning,"Spela det här kortet för att beskriva en SLP, en spelarkaraktär eller en motståndare."
+Karaktärer,Någon är väldigt stark,,Beskrivning,"Spela det här kortet för att beskriva en SLP, en spelarkaraktär eller en motståndare."
+Karaktärer,Någon är alv,,Beskrivning,"Spela det här kortet för att beskriva en SLP, en spelarkaraktär eller en motståndare."
+Karaktärer,Någon heter “Atnaf”,,Beskrivning,"Spela det här kortet för att beskriva en SLP, en spelarkaraktär eller en motståndare."
+Karaktärer,Någon är dvärg,,Beskrivning,"Spela det här kortet för att beskriva en SLP, en spelarkaraktär eller en motståndare."
+Karaktärer,Någon leker med knivar,,EventNågon,Spela det här kortet för att introducera en händelse som en karaktär eller en SLP gör.
+Karaktärer,Någon har ett svärd på ryggen,,Pryl,"Spela detta kort på dig själv, på en annan spelarkaraktär, eller på en SLP. Utrustningen kan också ligga på platsen ni befinner er på."
+Karaktärer,Någon har helrustning på sig,,Beskrivning,"Spela det här kortet för att beskriva en SLP, en spelarkaraktär eller en motståndare."
+Karaktärer,Någon är adelsman,,Beskrivning,"Spela det här kortet för att beskriva en SLP, en spelarkaraktär eller en motståndare."
+Karaktärer,Någon har en fylld pengabörs,,Beskrivning,"Spela det här kortet för att beskriva en SLP, en spelarkaraktär eller en motståndare."
+Karaktärer,Någon har en dubbelyxa,,Beskrivning,"Spela det här kortet för att beskriva en SLP, en spelarkaraktär eller en motståndare."
+Karaktärer,Någon har en stor sköld,,Beskrivning,"Spela det här kortet för att beskriva en SLP, en spelarkaraktär eller en motståndare."
+Karaktärer,Någon är en Alv...,I hörnet sitter en spetsörad... alv!,Ras,"Spela detta kort på dig själv, på en annan spelarkaraktär, eller för att introducera en ny SLP. En karaktär som redan fått en ras kan inte byta."
+Karaktärer,Någon är en Dvärg...,På bordet ligger en skäggig... dvärg!,Ras,"Spela detta kort på dig själv, på en annan spelarkaraktär, eller för att introducera en ny SLP. En karaktär som redan fått en ras kan inte byta."
+Karaktärer,Någon är en Minotaur...,På golvet dansar en jättelik... minotaur!,Ras,"Spela detta kort på dig själv, på en annan spelarkaraktär, eller för att introducera en ny SLP. En karaktär som redan fått en ras kan inte byta."
+Karaktärer,Någon är en Halvorch...,Vid baren skålar en... halvorch!,Ras,"Spela detta kort på dig själv, på en annan spelarkaraktär, eller för att introducera en ny SLP. En karaktär som redan fått en ras kan inte byta."
+Karaktärer,Någon är en Hobbit...,Du är en liten jävla... hobbit!,Ras,"Spela detta kort på dig själv, på en annan spelarkaraktär, eller för att introducera en ny SLP. En karaktär som redan fått en ras kan inte byta."
+Karaktärer,Någon har en sköld...,"På ryggen bär du en rundsköld, med solens märke ristat i guld!",Pryl,"Spela detta kort på dig själv, på en annan spelarkaraktär, eller på en SLP. Utrustningen kan också ligga på platsen ni befinner er på."
+Karaktärer,Någon har ett svärd...,...då drar hon ett TVÅHANDSSVÄRD!,Pryl,"Spela detta kort på dig själv, på en annan spelarkaraktär, eller på en SLP. Utrustningen kan också ligga på platsen ni befinner er på."
+Karaktärer,Någon har en Pilbåge...,...en båge utav eneträ med pilar av svart stål i ett koger på ryggen!,Pryl,"Spela detta kort på dig själv, på en annan spelarkaraktär, eller på en SLP. Utrustningen kan också ligga på platsen ni befinner er på."
+Slutstriden,Tre motståndare dyker upp,,SLP,"Spela det här kortet för att introducera en spelarkaraktär, en ny SLP eller en motståndare."
+Slutstriden,Någon snubblar,,EventNågon,Spela det här kortet för att introducera en händelse som en karaktär eller en SLP gör.
+Slutstriden,En staty står där,,Beskrivning,"Spela det här kortet för att beskriva en SLP, en spelarkaraktär eller en motståndare."
+Slutstriden,Det börjar brinna,,Event,Spela det här kortet för att introducera en händelse.
+Slutstriden,Det åskar,,Stämning,Spela kortet för att sätta en ny atmosfär på platsen ni är.
+Slutstriden,Takkronan lossnar,,Event,Spela det här kortet för att introducera en händelse.
+Slutstriden,Någon skrattar elakt,,SLP,"Spela det här kortet för att introducera en spelarkaraktär, en ny SLP eller en motståndare."
+Slutstriden,Någon skriker: Vakter!,,SLP,"Spela det här kortet för att introducera en spelarkaraktär, en ny SLP eller en motståndare."
+Slutstriden,En pil träffar sitt mål!,,EventNågon,Spela det här kortet för att introducera en händelse som en karaktär eller en SLP gör.
+Slutstriden,En sköld klyvs,,EventNågon,Spela det här kortet för att introducera en händelse som en karaktär eller en SLP gör.
+Slutstriden,Dörrarna smäller igen bakom oss,,Stämning,Spela kortet för att sätta en ny atmosfär på platsen ni är.
+Slutstriden,En pil skjuter från skuggorna,,SLP,"Spela det här kortet för att introducera en spelarkaraktär, en ny SLP eller en motståndare."
+Slutstriden,Någon glider över golvet,,EventNågon,Spela det här kortet för att introducera en händelse som en karaktär eller en SLP gör.
+Slutstriden,Ett vapen går sönder,,EventNågon,Spela det här kortet för att introducera en händelse som en karaktär eller en SLP gör.
+Slutstriden,På väggarna sitter facklor,,Stämning,Spela kortet för att sätta en ny atmosfär på platsen ni är.
+Slutstriden,Taket störtar in,,Event,Spela det här kortet för att introducera en händelse.
+Slutstriden,Fienden flyr (beskriv nya scenen),,NyScen,Spela det här kortet för att byta skådeplats
+Slutstriden,En fånge befrias,,EventNågon,Spela det här kortet för att introducera en händelse som en karaktär eller en SLP gör.
+Slutstriden,En mäktig besvärjelse uttalas.,,EventNågon,Spela det här kortet för att introducera en händelse som en karaktär eller en SLP gör.
+Slutstriden,En förbannelse uttalas.,,EventNågon,Spela det här kortet för att introducera en händelse som en karaktär eller en SLP gör.
+Slutstriden,Facklorna släcks (det blir mörkt).,,Stämning,Spela kortet för att sätta en ny atmosfär på platsen ni är.
+Slutstriden,Vinden viner utanför.,,Stämning,Spela kortet för att sätta en ny atmosfär på platsen ni är.
+Slutstriden,Något passerar ovanför huvudet.,,Event,Spela det här kortet för att introducera en händelse.
+Undersökningen,En magisk förmåga används men går fel,,Event,Spela det här kortet för att introducera en händelse.
+Undersökningen,Ett hus har brunnit till grunden,,Upptäckt,Spela det här kortet för att introducera något nytt på platsen där ni är. Beskriv vem som gör upptäckten!
+Undersökningen,Ett eller flera lik hittas,,Upptäckt,Spela det här kortet för att introducera något nytt på platsen där ni är. Beskriv vem som gör upptäckten!
+Undersökningen,Någon är väldigt upprörd,,SLP,"Spela det här kortet för att introducera en spelarkaraktär, en ny SLP eller en motståndare."
+Undersökningen,Någon hittar något gömt,,Upptäckt,Spela det här kortet för att introducera något nytt på platsen där ni är. Beskriv vem som gör upptäckten!
+Undersökningen,En dröm berättas,,EventNågon,Spela det här kortet för att introducera en händelse som en karaktär eller en SLP gör.
+Undersökningen,Någon snubblar,,Event,Spela det här kortet för att introducera en händelse.
+Undersökningen,Ett brev läses,,Ledtråd,Spela det här kortet för att leda spelarkaraktärerna vidare mot nästa scen
+Undersökningen,Någon har dött här,ett par stövlar sticker fram...,Upptäckt,Spela det här kortet för att introducera något nytt på platsen där ni är. Beskriv vem som gör upptäckten!
+Undersökningen,Någon är försvunnen,min dotter är borta!,Upptäckt,Spela det här kortet för att introducera något nytt på platsen där ni är. Beskriv vem som gör upptäckten!
+Undersökningen,Någonting är stulet,,Upptäckt,Spela det här kortet för att introducera något nytt på platsen där ni är. Beskriv vem som gör upptäckten!
+Undersökningen,En ledtråd till vem fienden är hittas av någon.,,Ledtråd,Spela det här kortet för att leda spelarkaraktärerna vidare mot nästa scen
+Undersökningen,Ett mystiskt tecken syns i molnen,,Upptäckt,Spela det här kortet för att introducera något nytt på platsen där ni är. Beskriv vem som gör upptäckten!
+Undersökningen,Ett fotspår hittas i leran,,Upptäckt,Spela det här kortet för att introducera något nytt på platsen där ni är. Beskriv vem som gör upptäckten!
+Undersökningen,Ett papper hittas med skrift på,,Upptäckt,Spela det här kortet för att introducera något nytt på platsen där ni är. Beskriv vem som gör upptäckten!
+Undersökningen,Någon är duktig på att spåra,,Egenskap,#N/A
+Undersökningen,En bit av en karta hittas,,Upptäckt,Spela det här kortet för att introducera något nytt på platsen där ni är. Beskriv vem som gör upptäckten!
+Undersökningen,En blodig tröja hittas,,Upptäckt,Spela det här kortet för att introducera något nytt på platsen där ni är. Beskriv vem som gör upptäckten!
+Undersökningen,En ring med inskription hittas,,Upptäckt,Spela det här kortet för att introducera något nytt på platsen där ni är. Beskriv vem som gör upptäckten!
+Världshuset,Någon får ett oväntat besök av en gammal vän,...vid bordet sitter din moster!,SLP,"Spela det här kortet för att introducera en spelarkaraktär, en ny SLP eller en motståndare."
+Världshuset,En dörr öppnas och någon störtar in!,"...från köket kommer plötsligt kocken in, han har en gaffel i handen!",SLP,"Spela det här kortet för att introducera en spelarkaraktär, en ny SLP eller en motståndare."
+Världshuset,Någon snubblar,...en av dvärgarna som sitter vid bordet sträcker ut ett fälleben!,Event,Spela det här kortet för att introducera en händelse.
+Världshuset,Ett bord välter,... och pokerkorten flyger i luften!,Event,Spela det här kortet för att introducera en händelse.
+Världshuset,Någon blir onykter,"... då dricker jag upp hela flaskan och faller handlöst bakåt,",Event,Spela det här kortet för att introducera en händelse.
+Världshuset,En förälskelse uppkommer, ,Relation,"Spela det här kortet på två karaktärer, SLPs eller spelarkaraktärer för att introducera en relation."
+Världshuset,En oätlig maträtt beställs,,Event,Spela det här kortet för att introducera en händelse.
+Världshuset,Någon har en konstig trollkarlshatt,,Beskrivning,"Spela det här kortet för att beskriva en SLP, en spelarkaraktär eller en motståndare."
+Världshuset,Någon(ting) ligger under bordet,,Pryl,"Spela detta kort på dig själv, på en annan spelarkaraktär, eller på en SLP. Utrustningen kan också ligga på platsen ni befinner er på."
+Världshuset,Någon speglar sig,,Event,Spela det här kortet för att introducera en händelse.
+Världshuset,En karta sitter på väggen,,Pryl,"Spela detta kort på dig själv, på en annan spelarkaraktär, eller på en SLP. Utrustningen kan också ligga på platsen ni befinner er på."
+Världshuset,En brödkaka har möglat,,Pryl,"Spela detta kort på dig själv, på en annan spelarkaraktär, eller på en SLP. Utrustningen kan också ligga på platsen ni befinner er på."
+Världshuset,Någon har huvan uppe,,Beskrivning,"Spela det här kortet för att beskriva en SLP, en spelarkaraktär eller en motståndare."
+Världshuset,Någon är sjuk,,Beskrivning,"Spela det här kortet för att beskriva en SLP, en spelarkaraktär eller en motståndare."
+Världshuset,Någon stjäl något,jag tar guldmyntet innan någon ser,EventNågon,Spela det här kortet för att introducera en händelse som en karaktär eller en SLP gör.
+Världshuset,Några sitter i ett mörkt hörn,"Glittrande ögon som ser på dig, och piprök virvlar ut...",SLP,"Spela det här kortet för att introducera en spelarkaraktär, en ny SLP eller en motståndare."
+Världshuset,Någon spelar poker,"du har ett kort i rockärmen, fuskare!",Event,Spela det här kortet för att introducera en händelse.
+Världshuset,Någon puttar någon,Halvlingen stöter till den stora barbaren...,Event,Spela det här kortet för att introducera en händelse.
+Världshuset,Någon känner till någon annan på värdshuset.,,Relation,"Spela det här kortet på två karaktärer, SLPs eller spelarkaraktärer för att introducera en relation."
+Världshuset,Ett par fulla bönder kommer in på värdshuset,,Event,Spela det här kortet för att introducera en händelse.
+Världshuset,Någon skriker att något hänt utanför,,Event,Spela det här kortet för att introducera en händelse.
