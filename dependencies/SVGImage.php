@@ -114,6 +114,11 @@ class SVGImage  {
 			<rect x='$posXPixels' y='$posYPixels' width='$width' height='$height' fill='white' stroke='black' stroke-width='1' />";
 	}
 
+	public function drawBackground($posXPixels, $posYPixels, $width, $height, $color = "black") {
+		$this->content .= "
+			<rect x='$posXPixels' y='$posYPixels' width='$width' height='$height' fill='$color' stroke='black' stroke-width='1' />";
+	}
+
 	/**
 	 * Draws a black line to the image
 	 * 
@@ -165,9 +170,10 @@ class SVGImage  {
 	 * @param  String $string  The text string written to the image
 	 * @return void
 	 */
-	public function drawText($x, $y, $string) {
+	public function drawText($x, $y, $string, $fontSize = 10, $font = "sans-serif", $textDecorator = "") {
 		 $this->content .=  "
-		 	<text x=\"$x\" y=\"$y\" font-size = \"10\" font-family = \"sans-serif\" >$string</text>";
+		 	<text x=\"$x\" y=\"$y\" font-size = \"$fontSize\" font-family = \"$font\" $textDecorator >$string</text>";
+		 	//<text x=\"$x\" y=\"$y\" font-size = \"$fontSize\" font-family = \"sans-serif\" $textDecorator >$string</text>";
 	}
 
 	/**
@@ -178,9 +184,10 @@ class SVGImage  {
 	 * @param  String $string  The text string written to the image
 	 * @return void
 	 */
-	public function drawVerticalText($x, $y, $string) {
-		 $this->content .=  "
-		 	<text x=\"$y\" y=\"$x\" font-size = \"10\" font-family = \"sans-serif\" transform=\"rotate(90)\">$string</text>";
+	public function drawVerticalText($x, $y, $string, $scenTextColor) {
+		$this->content .= "<g writing-mode=\"tb-rl\" fill=\"$scenTextColor\"  >";
+		$this->content .=  "	<text x=\"$y\" y=\"$x\" font-size = \"20\" font-family = \"sans-serif\" glyph-orientation-vertical=\"auto\" ext-anchor=\"middle\">$string</text> ";
+		$this->content .= "</g>";
 	}
 
 
