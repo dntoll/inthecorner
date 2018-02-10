@@ -111,12 +111,12 @@ class SVGImage  {
 	 */
 	public function drawFrame($posXPixels, $posYPixels, $width, $height) {
 		$this->content .= "
-			<rect x='$posXPixels' y='$posYPixels' width='$width' height='$height' fill='white' stroke='black' stroke-width='1' />";
+			<rect rx='5' x='$posXPixels' y='$posYPixels' width='$width' height='$height' fill='white' stroke='black' stroke-width='1' />";
 	}
 
 	public function drawBackground($posXPixels, $posYPixels, $width, $height, $color = "black") {
 		$this->content .= "
-			<rect x='$posXPixels' y='$posYPixels' width='$width' height='$height' fill='$color' stroke='black' stroke-width='1' />";
+			<rect rx='5' x='$posXPixels' y='$posYPixels' width='$width' height='$height' fill='$color' stroke='black' stroke-width='1' />";
 	}
 
 	/**

@@ -44,7 +44,7 @@ function printLineWrapped($svgImage, $x, $y, $lineHeight, $text, $maxDescription
 
 function handleCard(array $input, $targetFile) {
 	$cardWidth = 60;
-	$cardHeight = 80;
+	$cardHeight = 84;
 	$edge = 1; //mm around the edge (for cutting)
 	$maxDescriptionLength = 38;
 	$lineHeight = 4;
@@ -106,7 +106,7 @@ $htmlStart = '<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>title</title>
+    <title>Alla korten</title>
     <link rel="stylesheet" href="style.css">
 	<link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
     <script src="script.js"></script>
