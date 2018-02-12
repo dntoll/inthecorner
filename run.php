@@ -43,8 +43,8 @@ function printLineWrapped($svgImage, $x, $y, $lineHeight, $text, $maxDescription
 }
 
 function handleCard(array $input, $targetFile) {
-	$cardWidth = 60;
-	$cardHeight = 84;
+	$cardWidth = 62;
+	$cardHeight = 86;
 	$edge = 1; //mm around the edge (for cutting)
 	$maxDescriptionLength = 38;
 	$lineHeight = 4;
@@ -54,6 +54,7 @@ function handleCard(array $input, $targetFile) {
 
 	$titleFont = "Indie Flower";
 	$descriptionFont = "sans-serif";
+	$maxCiteLength = 33;
 	
 	$scenNummer = intval($input[0]);
 	$scen = $scenNummer . ". " . $input[1];
@@ -85,7 +86,7 @@ function handleCard(array $input, $targetFile) {
 	
 
 	printLineWrapped($svgImage, 12, 10, $titleLineHeight, $title, $maxTitleLength, 25, $titleFont);
-	printLineWrapped($svgImage, 12, 40, $lineHeight, $citat, $maxDescriptionLength, 12, $titleFont, 'font-style = "italic"');
+	printLineWrapped($svgImage, 12, 40, $lineHeight, $citat, $maxCiteLength, 12, $titleFont, 'font-style = "italic"');
 	
 	$atY = $cardHeight - $edge -$lowerpart;
 	printLineWrapped($svgImage, 12, $atY, $lineHeight, $description, $maxDescriptionLength, 10, $descriptionFont);
@@ -97,7 +98,8 @@ function handleCard(array $input, $targetFile) {
 }
 
 
-$inputFileName = "data/Alla kort - Kort.csv";
+//$inputFileName = "data/Alla kort - Kort.csv";
+$inputFileName = "https://docs.google.com/spreadsheets/d/1tO0jOVtPYYAAJhRtLXIowGaIbL6kn-SpFVZAA_QIZb4/export?format=csv&id=1tO0jOVtPYYAAJhRtLXIowGaIbL6kn-SpFVZAA_QIZb4&gid=0";
 $outputFileName = "output/index.html";
 $inputFile = fopen($inputFileName, "r");
 $targetFile = fopen($outputFileName, "w");
@@ -125,3 +127,5 @@ fwrite($targetFile, $htmlend);
 fclose($inputFile);
 fclose($targetFile);
 
+
+require_once($outputFileName);

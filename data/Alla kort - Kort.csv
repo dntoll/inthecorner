@@ -3,43 +3,44 @@ Ordning,Scen,Titel,Citat,Beskrivning,
 1,Karaktärer,Någon är väldigt stark,,Beskrivning,"Spela det här kortet för att beskriva en SLP, en spelarkaraktär eller en motståndare."
 1,Karaktärer,Någon är alv,,Beskrivning,"Spela det här kortet för att beskriva en SLP, en spelarkaraktär eller en motståndare."
 1,Karaktärer,Någon heter “Atnaf”,,Beskrivning,"Spela det här kortet för att beskriva en SLP, en spelarkaraktär eller en motståndare."
-1,Karaktärer,Någon är dvärg,,Beskrivning,"Spela det här kortet för att beskriva en SLP, en spelarkaraktär eller en motståndare."
+1,Karaktärer,Någon är väldigt lång,,Beskrivning,"Spela det här kortet för att beskriva en SLP, en spelarkaraktär eller en motståndare."
 1,Karaktärer,Någon leker med knivar,,EventNågon,Spela det här kortet för att introducera en händelse som en karaktär eller en SLP gör.
 1,Karaktärer,Någon har ett svärd på ryggen,,Pryl,"Spela detta kort på dig själv, på en annan spelarkaraktär, eller på en SLP. Utrustningen kan också ligga på platsen ni befinner er på."
 1,Karaktärer,Någon har helrustning på sig,,Beskrivning,"Spela det här kortet för att beskriva en SLP, en spelarkaraktär eller en motståndare."
-1,Karaktärer,Någon är adelsman,,Beskrivning,"Spela det här kortet för att beskriva en SLP, en spelarkaraktär eller en motståndare."
+1,Karaktärer,Någon är en adelsman,,Beskrivning,"Spela det här kortet för att beskriva en SLP, en spelarkaraktär eller en motståndare."
 1,Karaktärer,Någon har en fylld pengabörs,,Beskrivning,"Spela det här kortet för att beskriva en SLP, en spelarkaraktär eller en motståndare."
 1,Karaktärer,Någon har en dubbelyxa,,Beskrivning,"Spela det här kortet för att beskriva en SLP, en spelarkaraktär eller en motståndare."
 1,Karaktärer,Någon har en stor sköld,,Beskrivning,"Spela det här kortet för att beskriva en SLP, en spelarkaraktär eller en motståndare."
-1,Karaktärer,Någon är en Alv...,I hörnet sitter en spetsörad... alv!,Ras,"Spela detta kort på dig själv, på en annan spelarkaraktär, eller för att introducera en ny SLP. En karaktär som redan fått en ras kan inte byta."
-1,Karaktärer,Någon är en Dvärg...,På bordet ligger en skäggig... dvärg!,Ras,"Spela detta kort på dig själv, på en annan spelarkaraktär, eller för att introducera en ny SLP. En karaktär som redan fått en ras kan inte byta."
-1,Karaktärer,Någon är en Minotaur...,På golvet dansar en jättelik... minotaur!,Ras,"Spela detta kort på dig själv, på en annan spelarkaraktär, eller för att introducera en ny SLP. En karaktär som redan fått en ras kan inte byta."
-1,Karaktärer,Någon är en Halvorch...,Vid baren skålar en... halvorch!,Ras,"Spela detta kort på dig själv, på en annan spelarkaraktär, eller för att introducera en ny SLP. En karaktär som redan fått en ras kan inte byta."
-1,Karaktärer,Någon är en Hobbit...,Du är en liten jävla... hobbit!,Ras,"Spela detta kort på dig själv, på en annan spelarkaraktär, eller för att introducera en ny SLP. En karaktär som redan fått en ras kan inte byta."
+1,Karaktärer,Någon är en alv...,I hörnet sitter en spetsörad... alv!,Ras,"Spela detta kort på dig själv, på en annan spelarkaraktär, eller för att introducera en ny SLP. En karaktär som redan fått en ras kan inte byta."
+1,Karaktärer,Någon är en dvärg...,På bordet ligger en skäggig... dvärg!,Ras,"Spela detta kort på dig själv, på en annan spelarkaraktär, eller för att introducera en ny SLP. En karaktär som redan fått en ras kan inte byta."
+1,Karaktärer,Någon är en minotaur...,På golvet dansar en jättelik... minotaur!,Ras,"Spela detta kort på dig själv, på en annan spelarkaraktär, eller för att introducera en ny SLP. En karaktär som redan fått en ras kan inte byta."
+1,Karaktärer,Någon är en halvorch...,Vid baren skålar en... halvorch!,Ras,"Spela detta kort på dig själv, på en annan spelarkaraktär, eller för att introducera en ny SLP. En karaktär som redan fått en ras kan inte byta."
+1,Karaktärer,Någon är en hobbit...,Du är en liten jävla... hobbit!,Ras,"Spela detta kort på dig själv, på en annan spelarkaraktär, eller för att introducera en ny SLP. En karaktär som redan fått en ras kan inte byta."
+1,Karaktärer,Några är ett par,,,
 1,Karaktärer,Någon har en sköld...,"På ryggen bär du en rundsköld, med solens märke ristat i guld!",Pryl,"Spela detta kort på dig själv, på en annan spelarkaraktär, eller på en SLP. Utrustningen kan också ligga på platsen ni befinner er på."
 1,Karaktärer,Någon har ett svärd...,...då drar hon ett TVÅHANDSSVÄRD!,Pryl,"Spela detta kort på dig själv, på en annan spelarkaraktär, eller på en SLP. Utrustningen kan också ligga på platsen ni befinner er på."
-1,Karaktärer,Någon har en Pilbåge...,...en båge utav eneträ med pilar av svart stål i ett koger på ryggen!,Pryl,"Spela detta kort på dig själv, på en annan spelarkaraktär, eller på en SLP. Utrustningen kan också ligga på platsen ni befinner er på."
-2,Världshuset,Någon får ett oväntat besök av en gammal vän,...vid bordet sitter din moster!,SLP,"Spela det här kortet för att introducera en spelarkaraktär, en ny SLP eller en motståndare."
-2,Världshuset,En dörr öppnas och någon störtar in!,"...från köket kommer plötsligt kocken in, han har en gaffel i handen!",SLP,"Spela det här kortet för att introducera en spelarkaraktär, en ny SLP eller en motståndare."
-2,Världshuset,Någon snubblar,...en av dvärgarna som sitter vid bordet sträcker ut ett fälleben!,Event,Spela det här kortet för att introducera en händelse.
-2,Världshuset,Ett bord välter,... och pokerkorten flyger i luften!,Event,Spela det här kortet för att introducera en händelse.
-2,Världshuset,Någon blir onykter,"... då dricker jag upp hela flaskan och faller handlöst bakåt,",Event,Spela det här kortet för att introducera en händelse.
-2,Världshuset,En förälskelse uppkommer, ,Relation,"Spela det här kortet på två karaktärer, SLPs eller spelarkaraktärer för att introducera en relation."
-2,Världshuset,En oätlig maträtt beställs,,Event,Spela det här kortet för att introducera en händelse.
-2,Världshuset,Någon har en konstig trollkarlshatt,,Beskrivning,"Spela det här kortet för att beskriva en SLP, en spelarkaraktär eller en motståndare."
-2,Världshuset,Någon(ting) ligger under bordet,,Pryl,"Spela detta kort på dig själv, på en annan spelarkaraktär, eller på en SLP. Utrustningen kan också ligga på platsen ni befinner er på."
-2,Världshuset,Någon speglar sig,,Event,Spela det här kortet för att introducera en händelse.
-2,Världshuset,En karta sitter på väggen,,Pryl,"Spela detta kort på dig själv, på en annan spelarkaraktär, eller på en SLP. Utrustningen kan också ligga på platsen ni befinner er på."
-2,Världshuset,En brödkaka har möglat,,Pryl,"Spela detta kort på dig själv, på en annan spelarkaraktär, eller på en SLP. Utrustningen kan också ligga på platsen ni befinner er på."
-2,Världshuset,Någon har huvan uppe,,Beskrivning,"Spela det här kortet för att beskriva en SLP, en spelarkaraktär eller en motståndare."
-2,Världshuset,Någon är sjuk,,Beskrivning,"Spela det här kortet för att beskriva en SLP, en spelarkaraktär eller en motståndare."
-2,Världshuset,Någon stjäl något,jag tar guldmyntet innan någon ser,EventNågon,Spela det här kortet för att introducera en händelse som en karaktär eller en SLP gör.
-2,Världshuset,Några sitter i ett mörkt hörn,"Glittrande ögon som ser på dig, och piprök virvlar ut...",SLP,"Spela det här kortet för att introducera en spelarkaraktär, en ny SLP eller en motståndare."
-2,Världshuset,Någon spelar poker,"du har ett kort i rockärmen, fuskare!",Event,Spela det här kortet för att introducera en händelse.
-2,Världshuset,Någon puttar någon,Halvlingen stöter till den stora barbaren...,Event,Spela det här kortet för att introducera en händelse.
-2,Världshuset,Någon känner till någon annan på värdshuset.,,Relation,"Spela det här kortet på två karaktärer, SLPs eller spelarkaraktärer för att introducera en relation."
-2,Världshuset,Ett par fulla bönder kommer in på värdshuset,,Event,Spela det här kortet för att introducera en händelse.
-2,Världshuset,Någon skriker att något hänt utanför,,Event,Spela det här kortet för att introducera en händelse.
+1,Karaktärer,Någon har en pilbåge...,...en båge utav eneträ med pilar av svart stål i ett koger på ryggen!,Pryl,"Spela detta kort på dig själv, på en annan spelarkaraktär, eller på en SLP. Utrustningen kan också ligga på platsen ni befinner er på."
+2,Värdshuset,Någon får ett oväntat besök av en gammal vän,...vid bordet sitter din moster!,SLP,"Spela det här kortet för att introducera en spelarkaraktär, en ny SLP eller en motståndare."
+2,Värdshuset,En dörr öppnas och någon störtar in!,"...från köket kommer plötsligt kocken in, han har en gaffel i handen!",SLP,"Spela det här kortet för att introducera en spelarkaraktär, en ny SLP eller en motståndare."
+2,Värdshuset,Någon snubblar,...en av dvärgarna som sitter vid bordet sträcker ut ett fälleben!,Event,Spela det här kortet för att introducera en händelse.
+2,Värdshuset,Ett bord välter,... och pokerkorten flyger i luften!,Event,Spela det här kortet för att introducera en händelse.
+2,Värdshuset,Någon blir onykter,"... då dricker jag upp hela flaskan och faller handlöst bakåt,",Event,Spela det här kortet för att introducera en händelse.
+2,Värdshuset,En förälskelse uppkommer, ,Relation,"Spela det här kortet på två karaktärer, SLPs eller spelarkaraktärer för att introducera en relation."
+2,Värdshuset,En oätlig maträtt beställs,,Event,Spela det här kortet för att introducera en händelse.
+2,Värdshuset,Någon har en konstig trollkarlshatt,,Beskrivning,"Spela det här kortet för att beskriva en SLP, en spelarkaraktär eller en motståndare."
+2,Värdshuset,Någon(ting) ligger under bordet,,Pryl,"Spela detta kort på dig själv, på en annan spelarkaraktär, eller på en SLP. Utrustningen kan också ligga på platsen ni befinner er på."
+2,Värdshuset,Någon speglar sig,,Event,Spela det här kortet för att introducera en händelse.
+2,Värdshuset,En karta sitter på väggen,,Pryl,"Spela detta kort på dig själv, på en annan spelarkaraktär, eller på en SLP. Utrustningen kan också ligga på platsen ni befinner er på."
+2,Värdshuset,En brödkaka har möglat,,Pryl,"Spela detta kort på dig själv, på en annan spelarkaraktär, eller på en SLP. Utrustningen kan också ligga på platsen ni befinner er på."
+2,Värdshuset,Någon har huvan uppe,,Beskrivning,"Spela det här kortet för att beskriva en SLP, en spelarkaraktär eller en motståndare."
+2,Värdshuset,Någon är sjuk,,Beskrivning,"Spela det här kortet för att beskriva en SLP, en spelarkaraktär eller en motståndare."
+2,Värdshuset,Någon stjäl något,jag tar guldmyntet innan någon ser,EventNågon,Spela det här kortet för att introducera en händelse som en karaktär eller en SLP gör.
+2,Värdshuset,Några sitter i ett mörkt hörn,"Glittrande ögon som ser på dig, och piprök virvlar ut...",SLP,"Spela det här kortet för att introducera en spelarkaraktär, en ny SLP eller en motståndare."
+2,Värdshuset,Någon spelar poker,"du har ett kort i rockärmen, fuskare!",Event,Spela det här kortet för att introducera en händelse.
+2,Värdshuset,Någon puttar någon,Halvlingen stöter till den stora barbaren...,Event,Spela det här kortet för att introducera en händelse.
+2,Värdshuset,Någon känner till någon annan på värdshuset.,,Relation,"Spela det här kortet på två karaktärer, SLPs eller spelarkaraktärer för att introducera en relation."
+2,Värdshuset,Ett par fulla bönder kommer in på värdshuset,,Event,Spela det här kortet för att introducera en händelse.
+2,Värdshuset,Någon skriker att något hänt utanför,,Event,Spela det här kortet för att introducera en händelse.
 3,Undersökningen,En magisk förmåga används men går fel,,Event,Spela det här kortet för att introducera en händelse.
 3,Undersökningen,Ett hus har brunnit till grunden,,Upptäckt,Spela det här kortet för att introducera något nytt på platsen där ni är. Beskriv vem som gör upptäckten!
 3,Undersökningen,Ett eller flera lik hittas,,Upptäckt,Spela det här kortet för att introducera något nytt på platsen där ni är. Beskriv vem som gör upptäckten!
